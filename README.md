@@ -1,4 +1,5 @@
 [![MasterHead](https://gifimage.net/wp-content/uploads/2017/10/coding-gif-10.gif)](https://akashdip2001.io)
+<img align="right" alt="Mechanical Engineering" width="100" src="https://yt3.ggpht.com/7tPHyFi7-QyTnhpc484ZzTuRp0fZSY-CUuykvzuKdKYIwt0fmw98SWMqwRy_7pZ6LQzEYJlvXA=s88-c-k-c0x00ffffff-no-rj-mo"> 
 <h1 align="center">AKASHDIP MAHAPATRA</h1>
 <h3 align="center">National award from Dilhi, award taken from Indian precedent Pronob Mukherjee 2012 , on Drawing</h3>
 <img align="right" alt="Coding" width="400" src="https://r2.community.samsung.com/t5/image/serverpage/image-id/2674094i44AA9D3D28AD7BCD/image-size/large?v=v2&px=999">
